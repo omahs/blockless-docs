@@ -22,7 +22,7 @@ This means that applications no longer have to sacrifice performance and usabili
 
 ### Automated Orchestration
 
-Workloads deployed on Blockless are matched and distributed to most the suitable nodes with pseudo-randomness via our advanced [selection](./protocol/networking/selection) and [distribution](./protocol/networking/distribution.md) algorithms, ensuring the most efficient execution for your application.
+Workloads deployed on Blockless are matched and distributed to most of the suitable nodes with pseudo-randomness via our advanced [selection](./protocol/networking/selection) and [distribution](./protocol/networking/distribution.md) algorithms, ensuring the most efficient execution for your application.
 
 ### Dynamic Consensus and Verification
 
